@@ -1,0 +1,32 @@
+[
+  {
+    "name": "PurePharma",
+    "desc": "PurePharma is a comprehensive solution for purchasing health and wellness products online. Built with React front-end and Node.js back-end.",
+    "image": "PurePharma",
+    "category": "android",
+    "links": {
+      "view": "https://6768f3ab44e08bdb6d2280c0--candid-mooncake-e8530d.netlify.app/",
+      "code": "https://github.com/rahulsharma998/The-Backenders-Web_043"
+    }
+  },
+  {
+    "name": "Blockchain Beacons",
+    "desc": "This project involves creating a clone of an ecommerce website called ModeSens. The purpose for this project is to test our skills like html, css, java script",
+    "image": "Blockchain Beacons",
+    "category": "android",
+    "links": {
+      "view": "https://modesens-clone-site.netlify.app/",
+      "code": "https://github.com/Aranv-viswas/Blockchain-Beacons_009?tab=readme-ov-file"
+    }
+  },
+  {
+    "name": "Infinity UI",
+    "desc": "Our project is a UI library website designed to display different web components that can be reused in various projects.Built with HTML, CSS and JAVA Script.",
+    "image": "infinityUI",
+    "category": "android",
+    "links": {
+      "view": "https://genuine-eclair-3a11b9.netlify.app/",
+      "code": "https://github.com/ShivamGurjar07/GPT-Guardians_009?tab=readme-ov-file"
+    }
+  }
+]
